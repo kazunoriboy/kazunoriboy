@@ -16,7 +16,6 @@
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kazunoriboy&style=flat-square&color=blue" alt=""/>
-</div>
 
 ---
 
@@ -50,7 +49,6 @@
 
 ### 🔥My Stats:
 
-<div align="center">
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)
 
