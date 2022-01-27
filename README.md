@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="125"/>
-  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="175"/>
-  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="175"/>
-  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="125"/>
+  <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="300"/>
   <div id="badges">
     <a href="https://twitter.com/ittoku_ksm">
       <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
