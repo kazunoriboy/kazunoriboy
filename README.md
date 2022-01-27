@@ -17,7 +17,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=kazunoriboy&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
+
 ### 🙋‍♂️About Me:
 <!--
 **kazunoriboy/kazunoriboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
