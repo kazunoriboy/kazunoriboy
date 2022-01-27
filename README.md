@@ -18,7 +18,7 @@
 
 ---
 
-<br>
+<br>  
 
 ### 🙋‍♂️About Me:
 
@@ -26,19 +26,15 @@
 - 🧑‍🏫　Teaching programming as a mentor.
 - 🏖️ In my free time, I read book and build web apps to learn new technology.
 
-<br>
+<br>  
 
 ---
 
-
-<br>
-
+<br>  
 
 ### 　🛠️Languages and Tools:
 
-
-<br>
-
+<br>  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
@@ -56,11 +52,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 
+<br>  
+
 ---
+
+<br>  
 
 ### 🔥My Stats:
 
-<br>
+<br>  
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)
 
