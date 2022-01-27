@@ -52,3 +52,13 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunoriboy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="80"/>
+</div>
+
