@@ -16,15 +16,23 @@
 
 ---
 
+<br>
+
 ### 🙋‍♂️About Me:
 
 - 💻　I'm working as a Software Developer and contributing to backend for building web application.
 - 🧑‍🏫　Teaching programming as a mentor.
 - 🏖️ In my free time, I read book and build web apps to learn new technology.
 
+<br>
+
 ---
 
+<br>
+
 ### 　🛠️Languages and Tools:
+
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
@@ -46,22 +54,9 @@
 
 ### 🔥My Stats:
 
+<br>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunoriboy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**kazunoriboy/kazunoriboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
