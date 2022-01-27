@@ -22,15 +22,15 @@
 
 ### 🙋‍♂️About Me:
 
-- 💻　I'm working as a Software Developer and contributing to backend for building web application.
-- 🧑‍🏫　Teaching programming as a mentor.
+- 💻 I'm working as a Software Developer and contributing to backend for building web application.
+- 🧑‍🏫 Teaching programming as a mentor.
 - 🏖️ In my free time, I read book and build web apps to learn new technology.
 
 ---
 
 ### 　🛠️Languages and Tools:
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -50,8 +50,14 @@
 
 ### 🔥My Stats:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunoriboy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunoriboy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+  
 <div align="right">
   <img src="https://media.giphy.com/media/9cwIsjHkB1ShdCtpyY/giphy.gif" width="40"/>
 </div>
