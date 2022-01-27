@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" width="300"/>
+  <br>
   <div id="badges">
     <a href="https://twitter.com/ittoku_ksm">
       <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
@@ -11,6 +12,7 @@
       <img src="https://img.shields.io/badge/Blog-green?style=for-the-badge" alt="Twitter Badge"/>
     </a>
   </div>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=kazunoriboy&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -28,11 +30,15 @@
 
 ---
 
+
 <br>
+
 
 ### 　🛠️Languages and Tools:
 
+
 <br>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
