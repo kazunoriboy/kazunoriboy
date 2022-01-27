@@ -46,9 +46,9 @@
 
 ### 🔥My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ykazunoriboy&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazunoriboy&show_icons=true&theme=radical)
 
 <!--
 **kazunoriboy/kazunoriboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
