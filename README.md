@@ -11,7 +11,10 @@
       <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
     <a href="https://toku1.jp">
-      <img src="https://img.shields.io/badge/Blog-green?style=for-the-badge" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge?icon=wordpress" alt="Blog Badge"/>
+    </a>
+    <a href="https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785">
+      <img src="https://img.shields.io/badge/Podcast-9933CC?style=for-the-badge&logo=Apple%20Podcasts" alt="Podcast Badge"/>
     </a>
   </div>
   <br>
