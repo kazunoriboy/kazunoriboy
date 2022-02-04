@@ -5,10 +5,10 @@
   
   <div id="badges">
     <a href="https://twitter.com/ittoku_ksm">
-      <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
     </a>
     <a href="https://www.instagram.com/matsushimakazunori/">
-      <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
     <a href="https://toku1.jp">
       <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress" alt="Blog Badge"/>
