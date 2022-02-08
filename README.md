@@ -54,7 +54,6 @@
 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kazunoriboy&theme=dark&background=000000)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunoriboy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/kazunori"><img src="https://api.daily.dev/devcards/a0ed2429856b44bfb3eb663c2b5b034e.png?r=nco" width="400" alt="Kazunori's Dev Card"/></a>
