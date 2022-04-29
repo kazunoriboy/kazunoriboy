@@ -27,6 +27,7 @@
 💻 I'm working as a Software Developer and contributing to backend for building web application.  
 🧑‍🏫 Teaching programming as a mentor.  
 🏖️ In my free time, I read book and build web apps to learn new technology.  
+💃　　A programmer who can sing and dance
 
 ---
 
